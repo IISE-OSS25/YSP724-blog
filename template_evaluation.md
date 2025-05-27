@@ -1,7 +1,5 @@
----
-layout: post
-title: Opensource SW project evaluation
----
+# OSS Project Evaluation Activity
+
 
 
 __Project Name:__ Streamlit  
@@ -183,3 +181,4 @@ __Are there special skills required to contribute to the project? If so, what ar
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ 별도 하드웨어 불필요. Python ≥3.7, git, Poetry 정도만 설치되어 있으면 바로 contribution 가능
+
