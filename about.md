@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+이름: 박연성  
+생년월일: 2001.07.24  
+메일: pjejys@naver.com 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+취미: 영화 감상, 해외 축구 시청  
+좋아하는 것: 너  
 
